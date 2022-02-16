@@ -1,14 +1,16 @@
 <h1> Realtime Object Detection using YOLOv4</h1>
 
 ### Description
-> Objective: To recognize the shoe part in real-time and determine the process of the part.    
-> POC(Proof of Concept): Recognize the swoosh of Nike shoes and distinguish how to assemble the parts.    
+- Objective: To recognize the shoe part in real-time and determine the process of the part.    
+- POC(Proof of Concept): Recognize the swoosh of Nike shoes and distinguish how to assemble the parts.    
 
 
 ### Process     
-1. Data Preparation     
+**1. Data Preparation**     
+
     1.1 Data Collection     
     - I collected Nike shoes images using Google.(Data Crawling)    
+
     1.2 Data Annotation     
     - Data needs to be annotated according to YOLO Format.     
     - We manually label the swoosh part of the shoes with a square box using LabelImg Tool(Reference).    
@@ -17,13 +19,15 @@
     (In this repo, Data Preparation Part isn't contain)    
 
 
-2. Modeling     
+**2. Modeling**     
+
     2.1 Make YOLO Configuration("1. YOLOv4-Generate YOLO Configurations.ipynb")    
     - In order to implement YOLO, 1) weight file, 2) configuration file, 3) label classification file (process classification) is required.    
     - You can create it by using the above Jumpyter notebook file, and I used Google Colab to run the code for about 10 hours.    
 
 
-3. Real-time demo     
+**3. Real-time demo**     
+
     3.1 Real-time Detection Demo Using YOLO Configuration(2. YOLOv4-Swoosh Real-time Classifier.ipynb")    
     - It classifies object detection and process in real-time using above code.    
 
