@@ -30,7 +30,7 @@
 
     3.1 Real-time Detection Demo Using YOLO Configuration(2. YOLOv4-Swoosh Real-time Classifier.ipynb")    
     - It classifies object detection and process in real-time using above code.    
-
+    - ![Demo](https://user-images.githubusercontent.com/55779934/154224123-e760cd14-f43c-4407-a706-2fd17ab1b2c0.gif)    
 
 #### Reference    
 - LabelImg: https://byeon-sg.tistory.com/entry/labelImg%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-yolo-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%9D%BC%EB%B2%A8%EB%A7%81%ED%95%98%EA%B8%B0, https://iagreebut.tistory.com/92     
