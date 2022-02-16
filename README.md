@@ -1,11 +1,11 @@
 <h1> Realtime Object Detection using YOLOv4</h1>
 
-### Description
+### **Description**
 - Objective: To recognize the shoe part in real-time and determine the process of the part.    
 - POC(Proof of Concept): Recognize the swoosh of Nike shoes and distinguish how to assemble the parts.    
 
 
-### Process     
+### **Process**     
 **1. Data Preparation**     
 
     1.1 Data Collection     
