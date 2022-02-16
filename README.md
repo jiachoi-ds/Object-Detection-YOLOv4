@@ -1,11 +1,11 @@
 <h1> Realtime Object Detection using YOLOv4</h1>
 
-<h3> Description </h3>
-- Objective: To recognize the shoe part in real-time and determine the process of the part.    
+## Description </h3>
+- Objective: To recognize the shoe part in real-time and determine the process of the part.        
 - POC(Proof of Concept): Recognize the swoosh of Nike shoes and distinguish how to assemble the parts.    
 
 
-<h3> Process </h3>
+## Process     
 
 **1. Data Preparation**     
 
@@ -32,7 +32,7 @@
     3.1 Real-time Detection Demo Using YOLO Configuration(2. YOLOv4-Swoosh Real-time Classifier.ipynb")    
     - It classifies object detection and process in real-time using above code.    
 
-<h3> Result </h3>    
+## Result     
 ![Demo](https://user-images.githubusercontent.com/55779934/154224123-e760cd14-f43c-4407-a706-2fd17ab1b2c0.gif)    
 
 
